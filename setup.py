@@ -16,6 +16,12 @@ setup(
     author_email = 'roland at dau-sicher de',
     packages = find_packages(),
     package_dir = {'webkit2png': 'webkit2png'},
+    scripts = ['webkit2png/webkit2png.py'],
+    entry_points = {
+            'console_scripts': [
+                'webkit2png = webkit2png:main',
+            ]
+        },
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
