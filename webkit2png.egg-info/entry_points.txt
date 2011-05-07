@@ -1,3 +1,0 @@
-[console_scripts]
-webkit2png = webkit2png:main
-
