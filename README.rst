@@ -1,4 +1,4 @@
-***This project is looking for a maintainer - Please contact me if you're interested***
+***This project is looking for a maintainer - Please contact adam at yipit.com if you're interested***
 
 
 Originally taken from https://github.com/AdamN/python-webkit2png
